@@ -1,4 +1,4 @@
-اسم المستودع
+repository-name
 
 # اسم المستودع
 
@@ -14,7 +14,7 @@
 -   [رجل فرعي](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
 -   [متطلبات](./REQUIREMENTS.md)
--   [Telemetry](./TELEMETRY.md)
+-   [القياس عن بعد](./TELEMETRY.md)
 
 **ملخص تنفيذي**
 
