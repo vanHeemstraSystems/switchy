@@ -1,8 +1,8 @@
-repository-name
+切换
 
-# 存储库名称
+# 切换
 
-> 板条
+> 最聪明的链接参与平台。使用A/B测试，重新定制像素等缩短，自定义和跟踪您的链接。
 
 -   [DNS](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
@@ -18,7 +18,7 @@ repository-name
 
 **执行摘要**
 
-文本
+Discove Switchy，一个多合一的链接参与平台。从您的链接中获取更多信息，并提高您的转化率！
 
 生成[ritr](https://app.rytr.me)
 
@@ -36,4 +36,4 @@ repository-name
 
 ## 400-结论
 
-See [README.md](./400/README.md)
+看[README.md](./400/README.md)
