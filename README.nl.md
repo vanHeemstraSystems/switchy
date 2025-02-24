@@ -1,8 +1,8 @@
-repository-naam
+schakel
 
-# Repository -naam
+# Schakel
 
-> Sluglijn
+> Het slimste link -engagementplatform. Kort, pas uw links aan en volg uw links met A/B -testen, retargeting pixels, enz.
 
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
@@ -18,7 +18,7 @@ repository-naam
 
 **Uitvoerende samenvatting**
 
-Tekst
+Ontdek Switchy, het alles-in-One Links Engagement Platform. Haal meer uit uw links en verhoog uw conversieratio!
 
 Gegenereerd met[Ritr](https://app.rytr.me)
 
