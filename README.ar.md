@@ -1,8 +1,8 @@
-repository-name
+تبديل
 
-# اسم المستودع
+# تبديل
 
-> Slugline
+> The smartest link engagement platform. Shorten, customize and track your links with A/B testing, retargeting pixels, etc.
 
 -   [DNS](./DNS.md)
 -   [الوثائق](./DOCUMENTATION.md)
@@ -18,7 +18,7 @@ repository-name
 
 **ملخص تنفيذي**
 
-نص
+اكتشف Switchy ، منصة ارتباط Links All-In-One. احصل على المزيد من الروابط الخاصة بك وزيادة معدل التحويل الخاص بك!
 
 ولدت مع[ريتر](https://app.rytr.me)
 
