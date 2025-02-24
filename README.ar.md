@@ -2,7 +2,7 @@
 
 # اسم المستودع
 
-> خط الصرخ
+> Slugline
 
 -   [DNS](./DNS.md)
 -   [الوثائق](./DOCUMENTATION.md)
@@ -14,7 +14,7 @@
 -   [رجل فرعي](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
 -   [متطلبات](./REQUIREMENTS.md)
--   [القياس عن بعد](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **ملخص تنفيذي**
 
