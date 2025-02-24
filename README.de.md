@@ -1,8 +1,8 @@
-Repository-Namen
+Schalter
 
-# Repository -Name
+# Schalter
 
-> Slugline
+> Die intelligenteste Link -Engagement -Plattform. Verkürzen, passen Sie Ihre Links mit A/B -Tests, Retargeting -Pixel usw. an und verfolgen Sie sie.
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
@@ -18,7 +18,7 @@ Repository-Namen
 
 **Zusammenfassung**
 
-Text
+Discover Switchy, the all-in-one links engagement platform. Get more from your links and boost your conversion rate!
 
 Erzeugt mit[Ritr](https://app.rytr.me)
 
