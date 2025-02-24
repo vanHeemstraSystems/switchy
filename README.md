@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+switchy
+# Switchy
 
-> Slugline
+> The smartest link engagement platform. Shorten, customize and track your links with A/B testing, retargeting pixels, etc.
 
 - [DNS](./DNS.md)
 - [Documentation](./DOCUMENTATION.md)
@@ -17,7 +17,7 @@ repository-name
 
 **Executive Summary**
 
-Text
+Discover Switchy, the all-in-one links engagement platform. Get more from your links and boost your conversion rate!
 
 Generated with [Rytr](https://app.rytr.me)
 
