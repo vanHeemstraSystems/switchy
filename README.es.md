@@ -1,8 +1,8 @@
-repositorio
+switchy
 
-# Nombre de repositorio
+# Titular
 
-> Línea de babosa
+> La plataforma de compromiso de enlace más inteligente. Acortar, personalizar y rastrear sus enlaces con pruebas A/B, reorientar píxeles, etc.
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
@@ -13,12 +13,12 @@ repositorio
 -   [Nx](./NX.md)
 -   [Submario](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
--   [Requirements](./REQUIREMENTS.md)
+-   [Requisitos](./REQUIREMENTS.md)
 -   [Telemetría](./TELEMETRY.md)
 
 **Resumen ejecutivo**
 
-Texto
+Discover Switchy, la plataforma de compromiso de enlaces todo en uno. ¡Obtenga más de sus enlaces y aumente su tasa de conversión!
 
 Generado con[Ritro](https://app.rytr.me)
 
