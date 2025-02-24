@@ -1,8 +1,8 @@
-repository-name
+切換
 
-# 存儲庫名稱
+# 切換
 
-> 板條
+> 最聰明的鏈接參與平台。使用A/B測試，重新定制像素等縮短，自定義和跟踪您的鏈接。
 
 -   [DNS](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
@@ -18,7 +18,7 @@ repository-name
 
 **執行摘要**
 
-文字
+Discove Switchy，一個多合一的鏈接參與平台。從您的鏈接中獲取更多信息，並提高您的轉化率！
 
 生成[ritr](https://app.rytr.me)
 
