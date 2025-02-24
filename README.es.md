@@ -13,14 +13,14 @@ repositorio
 -   [Nx](./NX.md)
 -   [Submario](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
--   [Requisitos](./REQUIREMENTS.md)
+-   [Requirements](./REQUIREMENTS.md)
 -   [Telemetría](./TELEMETRY.md)
 
 **Resumen ejecutivo**
 
 Texto
 
-Generado con[Rytr](https://app.rytr.me)
+Generado con[Ritro](https://app.rytr.me)
 
 ## 100 - Introducción
 
