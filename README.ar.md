@@ -2,7 +2,7 @@
 
 # تبديل
 
-> The smartest link engagement platform. Shorten, customize and track your links with A/B testing, retargeting pixels, etc.
+> أذكى منصة ارتباط ارتباط. اختصر وتخصيص وتتبع الروابط مع اختبار A/B ، وحدات إعادة استهلاك ، وما إلى ذلك ، إلخ.
 
 -   [DNS](./DNS.md)
 -   [الوثائق](./DOCUMENTATION.md)
