@@ -1,4 +1,4 @@
-Schalter
+switchy
 
 # Schalter
 
@@ -18,7 +18,7 @@ Schalter
 
 **Zusammenfassung**
 
-Discover Switchy, the all-in-one links engagement platform. Get more from your links and boost your conversion rate!
+Discover Switchy, die All-in-One Links-Engagement-Plattform. Holen Sie sich mehr von Ihren Links und steigern Sie Ihre Conversion -Rate!
 
 Erzeugt mit[Ritr](https://app.rytr.me)
 
