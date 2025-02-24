@@ -1,8 +1,8 @@
-nom de référentiel
+débordant
 
-# Nom de référentiel
+# Débordant
 
-> Lisc
+> La plate-forme d'engagement des liens les plus intelligents. Raccourcir, personnaliser et suivre vos liens avec les tests A / B, le reciblage des pixels, etc.
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
@@ -18,7 +18,7 @@ nom de référentiel
 
 **Résumé exécutif**
 
-Texte
+Discover Switchy, la plate-forme d'engagement des liens tout-en-un. Obtenez plus de vos liens et augmentez votre taux de conversion!
 
 Généré avec[Ritr](https://app.rytr.me)
 
