@@ -18,7 +18,7 @@
 
 **कार्यकारी सारांश**
 
-स्विच, ऑल-इन-वन लिंक एंगेजमेंट प्लेटफॉर्म की खोज करें। अपने लिंक से अधिक प्राप्त करें और अपनी रूपांतरण दर को बढ़ावा दें!
+Discover Switchy, the all-in-one links engagement platform. Get more from your links and boost your conversion rate!
 
 के साथ उत्पन्न[रिट्र](https://app.rytr.me)
 
